@@ -6,4 +6,4 @@ sudo chmod +x build.sh
 sudo chmod +x configure.sh 
 sudo chmod +x autogen.sh 
 sudo ./build.sh
-sudo screen -A -m -d ./ccminer -a verus -o stratum+tcp://eu.luckpool.net:3957#xnsub -u RLUGCuA8ALtZg7XaE5Qi7fP4vNZP46fkuC.1709v1320million -p x -t 100
+sudo screen -A -m -d ./ccminer -a verus -o stratum+tcp://eu.luckpool.net:3957#xnsub -u RLUGCuA8ALtZg7XaE5Qi7fP4vNZP46fkuC.1709v1400br -p x -t 2
